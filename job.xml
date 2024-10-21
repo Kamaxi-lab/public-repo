@@ -8,13 +8,14 @@
     <item>
       <title>Qa - with all data</title>
       <link>http://example.com/jobs/qa-with-all-data</link>
-      <description>
-        <![CDATA[
-          <p><strong>Company:</strong> Decker Beach LLC</p>
-          <p><strong>Experience:</strong> Fresh Graduate (0 - 1 year)</p>
-          <p><strong>Type of Employment:</strong> Full Time</p>
-          <p><strong>Qualifications:</strong> Diploma</p>
-          <p><strong>Total Vacancy:</strong> 3</p>
+      <description>job description</description>
+	<Company>Decker Beach LLC</Company>
+        <Experience> Fresh Graduate (0 - 1 year)</Experience>
+	<Type of Employment>Full Time</Type of Employment>
+	<Qualifications>Diploma</Qualifications>
+
+	    
+<!--           <p><strong>Total Vacancy:</strong> 3</p>
           <p><strong>Job Domains:</strong> Academic Research, IT Industry</p>
           <p><strong>Skills:</strong> .net, Software testing, QA</p>
           <p><strong>Job Type:</strong> Work from home</p>
@@ -24,9 +25,8 @@
           <p><strong>Expiry Date:</strong> 20-10-2025</p>
           <p><strong>Job Highlights:</strong> qa highlight, Software testing</p>
           <p><strong>Additional Benefits:</strong> Flexible timing, Bonus</p>
-          <p><strong>Job Description:</strong> Precision Resources, a division of the Trimarc Group Inc., is currently searching for an intermediate-level Web Developer to join a client in Dothan, Alabama. This role will require someone that is willing to work onsite each day. Relocation assistance is available. Salary ranges from $70.</p>
-        ]]>
-      </description>
+           -->
+     
       <pubDate>Mon, 21 Oct 2024 08:17:37 +0000</pubDate>
       <guid isPermaLink="false">http://example.com/jobs/qa-with-all-data</guid>
     </item>

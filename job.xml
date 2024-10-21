@@ -6,12 +6,12 @@
     <description>Latest job vacancies in various fields</description>
 	<atom:link rel="self" type="application/rss+xml" href="https://venerable-blancmange-f6625b.netlify.app/job.xml"/>
     <item>
-      <title>Qa 8</title>
+      <title>Qa - invalid</title>
       <link>http://example.com/jobs/qa-with-all-data</link>
       <description>job description 12122</description>
       <custom:company>KTPL</custom:company>
       <custom:location>India</custom:location>
-      <custom:experience>Fresher</custom:experience>
+      <custom:experience>Frsgfsdgsdgsdgesher</custom:experience>
       <custom:Skills>Software Tester, QA, Manual Testing, Automation</custom:Skills>
       <custom:Employment_type>Full time</custom:Employment_type>
       <custom:Qualification>Graduate</custom:Qualification>
@@ -30,69 +30,7 @@
     </item>
 
 
-<item>
-      <title>Qa 9</title>
-      <link>http://example.com/jobs/qa-with-all-data</link>
-      <description>job description 12122</description>
-      <custom:company>KTPL</custom:company>
-      <custom:location>India</custom:location>
-      <custom:experience>Fresher</custom:experience>
-      <custom:Skills>Software Tester, QA, Manual Testing, Automation</custom:Skills>
-      <custom:Employment_type>Full time</custom:Employment_type>
-      <custom:Qualification>Graduate</custom:Qualification>
-      <custom:position>2</custom:position>
-      <custom:domain>Quality</custom:domain>
-      <custom:category>IOT</custom:category>
-      <custom:address_line>a 401 surat</custom:address_line>
-      <pubDate>Mon, 21 Oct 2024 08:17:37 +0000</pubDate>
-      <guid isPermaLink="false">http://example.com/jobs/qa-with-all-datas</guid>
-</item>
 
-
-
-	  
-<item>
-      <title>Qa 10</title>
-      <link>http://example.com/jobs/qa-with-all-data</link>
-      <description>job description 12122</description>
-      <custom:company>KTPL</custom:company>
-      <custom:location>India</custom:location>
-      <custom:experience>Fresher</custom:experience>
-      <custom:Skills>Software Tester, QA, Manual Testing, Automation</custom:Skills>
-      <custom:Employment_type>Full time</custom:Employment_type>
-      <custom:Qualification>Graduate</custom:Qualification>
-      <custom:position>2</custom:position>
-      <custom:domain>Quality</custom:domain>
-      <custom:category>IOT</custom:category>
-      <custom:address_line>a 401 surat</custom:address_line>
-      <pubDate>Mon, 21 Oct 2024 08:17:37 +0000</pubDate>
-      <guid isPermaLink="false">http://example.com/jobs/qa-with-all-datas</guid>
-</item>
-
-
-
-<item>
-      <title>Qa 11</title>
-      <link>http://example.com/jobs/qa-with-all-data</link>
-      <description>job description 12122</description>
-      <custom:company>KTPL</custom:company>
-      <custom:location>India</custom:location>
-      <custom:experience>Fressdfgher</custom:experience>
-      <custom:Skills>Software Tester, QA, Manual Testing, Automation</custom:Skills>
-      <custom:Employment_type>Full time</custom:Employment_type>
-      <custom:Qualification>Graduate</custom:Qualification>
-      <custom:position>2</custom:position>
-      <custom:domain>Quality</custom:domain>
-      <custom:category>IOT</custom:category>
-      <custom:address_line>a 401 surat</custom:address_line>
-      <pubDate>Mon, 21 Oct 2024 08:17:37 +0000</pubDate>
-      <guid isPermaLink="false">http://example.com/jobs/qa-with-all-datas</guid>
-</item>
-
-
-
-
-	  
-	  
+	  	  
   </channel>
 </rss>

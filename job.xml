@@ -9,10 +9,13 @@
       <title>Qa - with all data</title>
       <link>http://example.com/jobs/qa-with-all-data</link>
       <description>job description</description>
-	<Company>Decker Beach LLC</Company>
-        <Experience> Fresh Graduate (0 - 1 year)</Experience>
-	<Type of Employment>Full Time</Type of Employment>
+	<company>SafeSend</company>
+        <location>India</location>
+        <type>WFH</type>
+        <Experience>Fresher</Experience>
+	<Type_of_Employment>Full_Time</Type_of_Employment>
 	<Qualifications>Diploma</Qualifications>
+	<category>QA</category>
 
       <pubDate>Mon, 21 Oct 2024 08:17:37 +0000</pubDate>
       <guid isPermaLink="false">http://example.com/jobs/qa-with-all-data</guid>

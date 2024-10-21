@@ -9,10 +9,9 @@
       <title>Qa - with all data</title>
       <link>http://example.com/jobs/qa-with-all-data</link>
       <description>job description</description>
-      <company>Safe</company>
-      <location>Indi</location>
-      <type>WFH</type>
-      <Experience>Fresher</Experience>
+      <custom:company>Safe</custom:company>
+      <custom:location>India</custom:location>
+      <custom:experience>Fresher</custom:experience>
       <pubDate>Mon, 21 Oct 2024 08:17:37 +0000</pubDate>
       <guid isPermaLink="false">http://example.com/jobs/qa-with-all-data</guid>
     </item>

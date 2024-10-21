@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Job Vacancies</title>
+	<link>http://example.com/jobs</link>
+    <description>Latest job vacancies in various fields</description>
+	<atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/Kamaxi-lab/development/refs/heads/master/job.xml?token=GHSAT0AAAAAACZIQBCB6T6U6XUZWHSOFLWWZYV733A"/>
+    <item>
+      <title>Qa - with all data</title>
+      <link>http://example.com/jobs/qa-with-all-data</link>
+      <description>
+        <![CDATA[
+          <p><strong>Company:</strong> Decker Beach LLC</p>
+          <p><strong>Experience:</strong> Fresh Graduate (0 - 1 year)</p>
+          <p><strong>Type of Employment:</strong> Full Time</p>
+          <p><strong>Qualifications:</strong> Diploma</p>
+          <p><strong>Total Vacancy:</strong> 3</p>
+          <p><strong>Job Domains:</strong> Academic Research, IT Industry</p>
+          <p><strong>Skills:</strong> .net, Software testing, QA</p>
+          <p><strong>Job Type:</strong> Work from home</p>
+          <p><strong>Location:</strong> Jaipur, Delhi, India</p>
+          <p><strong>Address:</strong> qa road, qa state, 344566</p>
+          <p><strong>Salary:</strong> $60,000 USD</p>
+          <p><strong>Expiry Date:</strong> 20-10-2025</p>
+          <p><strong>Job Highlights:</strong> qa highlight, Software testing</p>
+          <p><strong>Additional Benefits:</strong> Flexible timing, Bonus</p>
+          <p><strong>Job Description:</strong> Precision Resources, a division of the Trimarc Group Inc., is currently searching for an intermediate-level Web Developer to join a client in Dothan, Alabama. This role will require someone that is willing to work onsite each day. Relocation assistance is available. Salary ranges from $70.</p>
+        ]]>
+      </description>
+      <pubDate>Mon, 21 Oct 2024 08:17:37 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/jobs/qa-with-all-data</guid>
+    </item>
+  </channel>
+</rss>

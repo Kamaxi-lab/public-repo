@@ -6,10 +6,10 @@
     <description>Latest job vacancies in various fields</description>
 	<atom:link rel="self" type="application/rss+xml" href="https://venerable-blancmange-f6625b.netlify.app/job.xml"/>
     <item>
-      <title>Qa - blank company</title>
+      <title>Qa 11</title>
       <link>http://example.com/jobs/qa-with-all-data</link>
       <description>job description 12122</description>
-      <custom:company></custom:company>
+      <custom:company>KTPL</custom:company>
       <custom:location>India</custom:location>
       <custom:experience>Fresher</custom:experience>
       <custom:Skills>Software Tester, QA, Manual Testing, Automation</custom:Skills>
@@ -30,7 +30,44 @@
     </item>
 
 
+	   <item>
+      <title>Qa 22</title>
+      <link>http://example.com/jobs/qa-with-all-data</link>
+      <description>job description 12122</description>
+      <custom:company>KTPL</custom:company>
+      <custom:location>India</custom:location>
+      <custom:experience>Fresher</custom:experience>
+	   </item>
 
+
+	     <item>
+      <title>Qa 33</title>
+      <link>http://example.com/jobs/qa-with-all-data</link>
+      <description>job description 12122</description>
+      <custom:company>KTPL</custom:company>
+      <custom:location>India</custom:location>
+      <custom:experience>Fresher</custom:experience>
+	   </item>
+
+
+	     <item>
+      <title>Qa 44</title>
+      <link>http://example.com/jobs/qa-with-all-data</link>
+      <description>job description 12122</description>
+      <custom:company>KTPL</custom:company>
+      <custom:location>India</custom:location>
+      <custom:experience>Fresher</custom:experience>
+	   </item>
+
+
+	     <item>
+      <title>Qa 55</title>
+      <link>http://example.com/jobs/qa-with-all-data</link>
+      <description>job description 12122</description>
+      <custom:company>KTPL</custom:company>
+      <custom:location>India</custom:location>
+      <custom:experience>Fresher</custom:experience>
+	   </item>
 	  	  
   </channel>
 </rss>

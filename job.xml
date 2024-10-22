@@ -4,7 +4,7 @@
     <title>Job Vacancies</title>
 	<link>http://example.com/jobs</link>
     <description>Latest job vacancies in various fields</description>
-	<atom:link rel="self" type="application/rss+xml" href="https://venerable-blancmange-f6625b.netlify.app/job.xml"/>
+	<atom:link rel="self" type="application/rss+xml" href="https://rssjobs.netlify.app/job.xml"/>
     <item>
       <title>Qa 11</title>
       <link>http://example.com/jobs/qa-with-all-data</link>
@@ -37,6 +37,8 @@
       <custom:company>KTPL</custom:company>
       <custom:location>India</custom:location>
       <custom:experience>Fresher</custom:experience>
+	<pubDate>Mon, 21 Oct 2024 08:17:37 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/jobss/qa-with-all-data</guid>
 	   </item>
 
 
@@ -47,6 +49,8 @@
       <custom:company>KTPL</custom:company>
       <custom:location>India</custom:location>
       <custom:experience>Fresher</custom:experience>
+		      <pubDate>Mon, 21 Oct 2024 08:17:37 +0000</pubDate>
+      <guid isPermaLink="false">http://example.com/jdobs/qa-with-all-data</guid>
 	   </item>
 
 
@@ -57,6 +61,8 @@
       <custom:company>KTPL</custom:company>
       <custom:location>India</custom:location>
       <custom:experience>Fresher</custom:experience>
+		      <pubDate>Mon, 21 Oct 2024 08:17:37 +0000</pubDate>
+      <guid isPermaLink="false">http://exadmple.com/jobs/qa-with-all-data</guid>
 	   </item>
 
 
@@ -67,6 +73,8 @@
       <custom:company>KTPL</custom:company>
       <custom:location>India</custom:location>
       <custom:experience>Fresher</custom:experience>
+		      <pubDate>Mon, 21 Oct 2024 08:17:37 +0000</pubDate>
+      <guid isPermaLink="false">http://exampse.com/jobs/qa-with-all-data</guid>
 	   </item>
 	  	  
   </channel>

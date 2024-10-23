@@ -4,7 +4,7 @@
     <title>Job Vacancies</title>
 	<link>http://example.com/jobs</link>
     <description>Latest job vacancies in various fields</description>
-	<atom:link rel="self" type="application/rss+xml" href="https://rssjobs.netlify.app/job.xml"/>
+	<atom:link rel="self" type="application/rss+xml" href="https://venerable-blancmange-f6625b.netlify.app/job.xml"/>
     <item>
       <title>Test 1</title>
       <link>http://example.com/jobs/qa-with-all-data</link>

@@ -6,10 +6,10 @@
     <description>Latest job vacancies in various fields</description>
 	<atom:link rel="self" type="application/rss+xml" href="https://rssjobs.netlify.app/job.xml"/>
     <item>
-      <title></title>
+      <title>Software Testing</title>
       <link>http://example.com/jobs/qa-with-all-data</link>
       <description>job description 11</description>
-      <custom:company>KTPL21</custom:company>
+      <custom:company>KTPL</custom:company>
       <custom:location>India</custom:location>
       <custom:experience>Fresher</custom:experience>
       <custom:Skills>Software Tester, QA, Manual Testing, Automation</custom:Skills>
@@ -32,40 +32,6 @@
 
 	
 
-	     <item>
-      <title>Qa 323</title>
-      <link>http://example.com/jobs/qa-with-all-data</link>
-      <description></description>
-      <custom:company>KTPL21</custom:company>
-      <custom:location>India</custom:location>
-      <custom:experience>Fresher</custom:experience>
-		      <pubDate>Mon, 21 Oct 2024 08:17:37 +0000</pubDate>
-      <guid isPermaLink="false">http://example.com/jdobs/qa-with-all-data</guid>
-	   </item>
-
-
-	     <item>
-      <title>Qa 424</title>
-      <link>http://example.com/jobs/qa-with-all-data</link>
-      <description>job description 12122</description>
-      <custom:company></custom:company>
-      <custom:location>India</custom:location>
-      <custom:experience>Fresher</custom:experience>
-		      <pubDate>Mon, 21 Oct 2024 08:17:37 +0000</pubDate>
-      <guid isPermaLink="false">http://exadmple.com/jobs/qa-with-all-data</guid>
-	   </item>
-
-
-	     <item>
-      <title>Qa 525</title>
-      <link></link>
-      <description>job description 12122</description>
-      <custom:company>KTPL21</custom:company>
-      <custom:location>India</custom:location>
-      <custom:experience>Fresher</custom:experience>
-		      <pubDate>Mon, 21 Oct 2024 08:17:37 +0000</pubDate>
-      <guid isPermaLink="false">http://exampse.com/jobs/qa-with-all-data</guid>
-	   </item>
 
 
   </channel>

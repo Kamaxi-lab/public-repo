@@ -32,7 +32,32 @@
 
 	
 
+ <item>
+      <title>Software Testing 1</title>
+      <link></link>
+      <description>job description 11</description>
+      <custom:company>KTPL</custom:company>
+      <custom:location>India</custom:location>
+      <custom:experience>Fresher</custom:experience>
+      <custom:Skills>Software Tester, QA, Manual Testing, Automation</custom:Skills>
+      <custom:Employment_type>Full time</custom:Employment_type>
+      <custom:Qualification>Graduate</custom:Qualification>
+      <custom:position>2</custom:position>
+      <custom:domain>Quality</custom:domain>
+      <custom:category>IOT</custom:category>
+	    <custom:Maxsalary>50000</custom:Maxsalary>
+	    <custom:MinSalary>10000</custom:MinSalary>
+	    <custom:Jobtype>HYBRid</custom:Jobtype>
+	    <custom:JobHighlights>Highlight qa</custom:JobHighlights>
+	    <custom:additionalbanefits>Highlight qa</custom:additionalbanefits>
+	    <custom:expirydate>Mon, 27 Oct 2024 08:17:37 +0000</custom:expirydate>
+      <custom:address_line>a 401 surat</custom:address_line>
+      <pubDate>Mon, 21 Oct 2024 08:17:37 +0000</pubDate>
+      <guid isPermaLink="false">http://examffple.com/jobs/qa-with-all-data</guid>
+    </item>
 
+
+	  
 
   </channel>
 </rss>

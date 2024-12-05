@@ -9,7 +9,7 @@
       <title>Quality Assessor</title>
       <link>http://example.com/jobs/qa-with-all-data</link>
       <description>job description 11</description>
-      <custom:company>Arha</custom:company>
+      <custom:company>Artha</custom:company>
       <custom:location>India</custom:location>
       <custom:experience>Fresher</custom:experience>
       <custom:Skills>Software Tester, QA, Manual Testing, Automation</custom:Skills>
@@ -35,7 +35,7 @@
       <title>pranay Test 2</title>
       <link>http://example.com/jobs/qa-with-all-data</link>
       <description>job description 11</description>
-      <custom:company>pranay not approved</custom:company>
+      <custom:company>Artha</custom:company>
       <custom:location>India</custom:location>
       <custom:experience>Fresher</custom:experience>
       <custom:Skills>Software Tester, QA, Manual Testing, Automation</custom:Skills>
